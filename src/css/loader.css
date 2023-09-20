@@ -5,7 +5,7 @@ body {
   height: 100vh;
   margin: 0;
   /* Установка цвета фона на указанный оттенок */
-  background-color: #dffacd;
+  background-color: #ffa6da;
 }
 .breed-select {
   /* Увеличение ширины элемента для помещения полного названия породы */
@@ -20,12 +20,12 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  /* Остальные стили для анимированного котика */
+  /* Остальные стили для анимированного котика:) */
   perspective: 1000px;
   border-radius: 50%;
   width: 400px;
   height: 300px;
-  color: #340fb9;
+  color: #53ff5c;
 
 }
     .loader:before,
