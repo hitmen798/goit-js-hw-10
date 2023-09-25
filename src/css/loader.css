@@ -12,8 +12,22 @@ body {
  min-width: 255px;
   /* Уменьшение размера текста внутри элемента */
   font-size: 20px;
+  width: 150px;
+  display: none;
 }
-
+.error {
+  display: none;
+}
+.cat-info {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.loader {
+  position: absolute;
+  left: 50vmin;
+  top: 300px;
+}
 .loader {
   /* Стили для центрирования элемента */
   position: absolute;

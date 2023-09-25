@@ -14,16 +14,16 @@ const elementSet = {
 }
 
 // start settings
-elementSet.selectElement.style.width = "150px";
-elementSet.selectElement.style.display = "none";
-elementSet.errorTextElement.style.display = "none";
-elementSet.infoElement.style.display = "flex";
-elementSet.infoElement.style.flexDirection = "row";
-elementSet.infoElement.style.gap = "20px";
+// elementSet.selectElement.style.width = "150px";
+// elementSet.selectElement.style.display = "none";
+// elementSet.errorTextElement.style.display = "none";
+// elementSet.infoElement.style.display = "flex";
+// elementSet.infoElement.style.flexDirection = "row";
+// elementSet.infoElement.style.gap = "20px";
 
-elementSet.successTextElement.style.position = "absolute";
-elementSet.successTextElement.style.left = "50vw";
-elementSet.successTextElement.style.top = "300px";
+// elementSet.successTextElement.style.position = "absolute";
+// elementSet.successTextElement.style.left = "50vw";
+// elementSet.successTextElement.style.top = "300px";
 
 function newSettings() {
     const textBlock = document.querySelector('[name="text-block"]');
